@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Taruns123/TextUtils_React/static/css/main.2784506f.css",
+    "main.js": "/Taruns123/TextUtils_React/static/js/main.72bf843a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Taruns123/TextUtils_React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Taruns123/TextUtils_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Taruns123/TextUtils_React/index.html",
+    "main.2784506f.css.map": "/Taruns123/TextUtils_React/static/css/main.2784506f.css.map",
+    "main.72bf843a.js.map": "/Taruns123/TextUtils_React/static/js/main.72bf843a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Taruns123/TextUtils_React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.72bf843a.js"
+  ]
+}
